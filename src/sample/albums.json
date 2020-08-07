@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Painkiller",
+    "artist": "Judas Priest",
+    "year": 1990,
+    "img": "https://www.todorock.com/wp-content/uploads/2019/09/judas-priest-painkiller-grande.jpg",
+    "rating": 7,
+    "liked": true
+  },
+  {
+    "id": 2,
+    "name": "Yield",
+    "artist": "Pearl Jam",
+    "year": 1998,
+    "img": "https://img.discogs.com/thBsDrIQJH5M77XZG7pFCdkh0uk=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-488738-1455915869-1989.jpeg.jpg",
+    "rating": 4,
+    "liked": false
+  },
+  {
+    "id": 3,
+    "name": "Powerslave",
+    "artist": "Iron Maiden",
+    "year": 1993,
+    "img": "https://img.discogs.com/6s0b_wmG5_ob0Xzzj54qfsQRHII=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2325457-1277234303.jpeg.jpg",
+    "rating": 4,
+    "liked": true
+  },
+  {
+    "id": 4,
+    "name": "Peace Sells",
+    "artist": "Megadeth",
+    "year": 1986,
+    "img": "https://img.discogs.com/cl5UcD8Nl6U1ooZvor_2nowWtmM=/fit-in/592x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1302358-1283657756.jpeg.jpg",
+    "rating": 4,
+    "liked": false
+  }
+]
