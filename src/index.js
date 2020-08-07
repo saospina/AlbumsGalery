@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div className="App container">
         <h1 className="my-5">Galeria de albumes</h1>
-        <hr className="border border-secondary my-5" />
+        <hr className="border border-danger my-5" />
         <ArtistInfo albums={this.state.albums} />
       </div>
     );
